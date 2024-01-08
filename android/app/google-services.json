@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390346224790",
+    "project_id": "maskkn-app",
+    "storage_bucket": "maskkn-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390346224790:android:ecf3aab7e5a450f2723eb7",
+        "android_client_info": {
+          "package_name": "com.example.maskkn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390346224790-eqb6clkg5uj17q5er57qodjofd70jc9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36evnhMoT0W17f9bo2puo_z0Z8bNChr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390346224790-eqb6clkg5uj17q5er57qodjofd70jc9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
